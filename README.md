@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋🏻 Hi there, I'm Danbi Oh
 
-<!--
-**stellaxdb/stellaxdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering student and Product Manager** interested in building products from **0 to 1**.
 
-Here are some ideas to get you started:
+I enjoy connecting technology, user needs, and business to turn ideas into products that people actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Profile
+
+* **Product Manager** — Kata Cronos (2025.12–Present)
+* **Product Manager** — MATE (2026.04–Present)
+* **Product Manager** — Teamficial (2025.10–Present)
+* **Ajou University** — B.S. in Software, Minor in Digital Media (2023–Present)
+* **Chung-Nam Samsung Academy (CNSA)** — 7th (2020–2022)
+
+---
+
+## 🏆 Awards
+
+* 🥇 **Grand Prize** — LG Electronics Industry Collaboration
+* 🥇 **Grand Prize** — Ajou University Startup Competition 2026
+* 🏆 **Grand Prize** — KUSITMS Meetup Day · MATE
+* 🏆 **Excellence Award** — Zighang Industry Collaboration
+
+## 📜 Certifications
+
+* **Advanced Data Analytics Semi-Professional (ADsP)** — 2026.01
+* **Google Analytics** — 2026.02
+
+---
+
+## 🌱 Currently Exploring
+
+**AI Agents · AI-powered Products · Product Analytics · 0→1 Product Development**
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/stellaxdb)  
+[Email](mailto:stellaxdb@gmail.com)
