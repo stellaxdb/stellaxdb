@@ -23,6 +23,8 @@ I enjoy connecting technology, user needs, and business to turn ideas into produ
 * 🏆 **Grand Prize** — KUSITMS Meetup Day · MATE
 * 🏆 **Excellence Award** — Zighang Industry Collaboration
 
+---
+
 ## 📜 Certifications
 
 * **Advanced Data Analytics Semi-Professional (ADsP)** — 2026.01
