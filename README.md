@@ -11,7 +11,7 @@ I enjoy connecting technology, user needs, and business to turn ideas into produ
 * **Product Manager** — Kata Cronos (2025.12–Present)
 * **Product Manager** — MATE (2026.04–Present)
 * **Product Manager** — Teamficial (2025.10–Present)
-* **Ajou University** — B.S. in Software, Minor in Digital Media (2023–Present)
+* **Ajou University** — B.S. in Software, Minoring Digital Media (2023–Present)
 * **Chung-Nam Samsung Academy (CNSA)** — 7th (2020–2022)
 
 ---
@@ -41,4 +41,3 @@ I enjoy connecting technology, user needs, and business to turn ideas into produ
 ## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/stellaxdb)  
-[Email](mailto:stellaxdb@gmail.com)
