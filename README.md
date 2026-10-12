@@ -2,10 +2,9 @@
 
 <a href="./README.md"><img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-3B2F2F?style=for-the-badge"/></a><a href="./README.en.md"><img src="https://img.shields.io/badge/English-E8E8E8?style=for-the-badge&labelColor=E8E8E8"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE29F,100:FFA99F&height=140&section=header&text=Danbi%20Oh&fontSize=40&fontColor=3B2F2F&fontAlignY=36&desc=Product%20Manager&descSize=14&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE29F,100:FFA99F&height=120&section=header&text=Danbi%20Oh&fontSize=40&fontColor=3B2F2F&fontAlignY=42&desc=Product%20Manager&descSize=14&descAlignY=72" width="100%"/>
 <b>가능성을 가설로, 가설을 변화로</b><br/>
-<sub>사람과 아이디어를 연결하고, 실험과 검증을 통해 가능성을 실제 제품의 변화로 만드는 PM 오단비입니다.</sub>
-
+<sub>사람과 아이디어를 연결하고, 실험과 검증을 통해 가능성을 실제 제품의 변화로 만드는 PM 오단비입니다.</sub><br/><br/>
 <a href="https://www.linkedin.com/in/stellaxdb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 </div>
