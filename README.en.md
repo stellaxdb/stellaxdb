@@ -109,6 +109,7 @@
 - **Advanced Data Analytics Semi-Professional (ADsP)** `2026.01`
 - **Google Analytics** `2026.02`
 - **TOPCIT Level 3** `2026.05`
+- **TOEIC SPEAKING - AL** `2026.11`
 
 ---
 
