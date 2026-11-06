@@ -108,7 +108,7 @@
 - **데이터분석 준전문가(ADsP)** `2026.01`
 - **Google Analytics** `2026.02`
 - **TOPCIT 3급** `2026.05`
-
+- **TOEIC SPEAKING - AL** `2026.11`
 ---
 
 ## 🛠 Tools
